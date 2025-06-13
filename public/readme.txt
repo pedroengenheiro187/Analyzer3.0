@@ -1,0 +1,1 @@
+Coloque aqui arquivos públicos como exemplos ou imagens padrão.
